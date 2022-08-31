@@ -4,7 +4,7 @@ A BMI Calculator App built with React.
 
 ## Demo
 
-[Link]()
+[Link](https://effortless-halva-76eee3.netlify.app/)
 
 ## Getting Started
 
